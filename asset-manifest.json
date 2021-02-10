@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FEMentorPriceApp/static/css/main.d4f16948.chunk.css",
+    "main.js": "/FEMentorPriceApp/static/js/main.3fc29c38.chunk.js",
+    "main.js.map": "/FEMentorPriceApp/static/js/main.3fc29c38.chunk.js.map",
+    "runtime-main.js": "/FEMentorPriceApp/static/js/runtime-main.0353e1df.js",
+    "runtime-main.js.map": "/FEMentorPriceApp/static/js/runtime-main.0353e1df.js.map",
+    "static/js/2.d52d1dd6.chunk.js": "/FEMentorPriceApp/static/js/2.d52d1dd6.chunk.js",
+    "static/js/2.d52d1dd6.chunk.js.map": "/FEMentorPriceApp/static/js/2.d52d1dd6.chunk.js.map",
+    "index.html": "/FEMentorPriceApp/index.html",
+    "static/css/main.d4f16948.chunk.css.map": "/FEMentorPriceApp/static/css/main.d4f16948.chunk.css.map",
+    "static/js/2.d52d1dd6.chunk.js.LICENSE.txt": "/FEMentorPriceApp/static/js/2.d52d1dd6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/FEMentorPriceApp/static/media/bg-pattern.76d3fa7d.svg",
+    "static/media/App.css": "/FEMentorPriceApp/static/media/pattern-circles.9f6ed14b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0353e1df.js",
+    "static/js/2.d52d1dd6.chunk.js",
+    "static/css/main.d4f16948.chunk.css",
+    "static/js/main.3fc29c38.chunk.js"
+  ]
+}
